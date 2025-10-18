@@ -1,2 +1,2 @@
-# CardioPredict Model
-A heart disease data analysis programming using a data set and looks at a predicted case using machine learning.
+# Patho DataPredict Model
+Machine learning model predicting multi-disease risk from biomedical datasets with Python, data visualization, and predictive analytics.
