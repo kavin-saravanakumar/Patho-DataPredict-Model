@@ -1,5 +1,4 @@
 # Patho DataPredict Model
-Description:
 An experimental machine learning project for predicting multi-disease risk using biomedical data. The repository includes multiple model implementations and a complete logistic regression pipeline that generates interpretable predictions and visual results.
 
 Features:
